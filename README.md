@@ -4,8 +4,6 @@ This Django project named "Bookstore" allows users to manage books, including cr
 
 ## Features
 
-- Create a new Django project named "bookstore".
-- Add a new app named "market".
 - Create a Book model with fields: name, page_count, category, author_name, price, image.
 - Register the Book model in the Django admin interface.
 - Display a search field in the admin for searching books by title and author's name.
